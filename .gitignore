@@ -1,0 +1,9 @@
+# Ignore Keras model files
+*.keras
+
+# Ignore CSV files
+*.csv
+
+
+# Ignore pt files
+*.pt
